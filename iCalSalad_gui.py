@@ -13,7 +13,6 @@ def main():
 	file_entry = Label(text="csv file")
 	file_entry.pack(fill=X)
 
-
 	file_entry_button = Button(
 		window,
 		text="Select File to convert",
