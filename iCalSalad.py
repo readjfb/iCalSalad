@@ -1,4 +1,3 @@
-#!/usr/bin/env python3.6
 from ics import Calendar, Event
 from datetime import datetime
 import pytz

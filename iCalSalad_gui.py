@@ -1,4 +1,3 @@
-#!/usr/bin/env python3.6
 from tkinter import Tk, Label, StringVar, Button, X
 from tkinter.filedialog import askopenfilename
 import iCalSalad
